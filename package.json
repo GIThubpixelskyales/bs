@@ -43,6 +43,6 @@
     "postcss": "^8.1.1",
     "postcss-cli": "^8.1.0",
     "purgecss": "^3.0.0",
-    "serve": "^11.3.2"
+    "serve": "^14.1.1"
   }
 }
